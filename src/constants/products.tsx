@@ -2,7 +2,7 @@ import Projects from "public/images/project.jpg";
 
 export const products = [
   {
-    href: "https://aceternity.com",
+    href: "",
     title: "Project 01",
     description:
       "A design and development studio that focuses on building quality apps.",
@@ -32,7 +32,7 @@ export const products = [
     ),
   },
   {
-    href: "https://algochurn.com",
+    href: "",
     title: "Project 02",
     description:
       "Practice for technical interviews with hands on coding challenges.",
@@ -62,7 +62,7 @@ export const products = [
     ),
   },
   {
-    href: "https://gomoonbeam.com",
+    href: "",
     title: "Project 03",
     description:
       "Never write from scratch again with Moonbeam, your AI first writing tool",
@@ -92,7 +92,7 @@ export const products = [
     ),
   },
   {
-    href: "https://tailwindmasterkit.com",
+    href: "",
     title: "Project 04",
     description:
       "A beautiful and comprehensive Tailwind CSS components library for building modern websites and applications.",
